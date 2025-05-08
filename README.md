@@ -32,3 +32,6 @@ The Tic-Tac-Toe game is a simple and interactive web-based game built using HTML
 - Add a multiplayer mode or AI opponent.
 - Enhance the user interface with animations and sound effects.
 - Include a timer to track each player’s turn duration.
+  
+  
+## Hosted the website on https:
