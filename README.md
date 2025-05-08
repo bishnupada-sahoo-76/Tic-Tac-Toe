@@ -5,7 +5,7 @@ The Tic-Tac-Toe game is a simple and interactive web-based game built using HTML
 - HTML: Structure of the game interface and layout.
 - CSS: Styling of game components and user interface.
 - JavaScript: Game logic, event handling, and game state management.
----
+
 #Features:
 -Interactive user interface with visually appealing design.
 -Displays a congratulatory message when a player wins.
